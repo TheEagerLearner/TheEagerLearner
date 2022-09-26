@@ -1,1 +1,1 @@
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
+![content](https://api.quotable.io/random?tags=technology,famous-quotes)
