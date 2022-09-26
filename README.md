@@ -1,1 +1,1 @@
-![QUOTE](https://api.quotable.io/random?tags=technology,famous-quotes)
+![QUOTE](https://random.responsiveimages.io/)
